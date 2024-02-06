@@ -1,0 +1,7 @@
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week08_AbstractClass\Week08_AbstractClass\bin\Debug\Week08_AbstractClass.exe.config
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week08_AbstractClass\Week08_AbstractClass\bin\Debug\Week08_AbstractClass.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week08_AbstractClass\Week08_AbstractClass\bin\Debug\Week08_AbstractClass.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week08_AbstractClass\Week08_AbstractClass\obj\Debug\Week08_AbstractClass.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week08_AbstractClass\Week08_AbstractClass\obj\Debug\Week08_AbstractClass.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week08_AbstractClass\Week08_AbstractClass\obj\Debug\Week08_AbstractClass.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week08_AbstractClass\Week08_AbstractClass\obj\Debug\Week08_AbstractClass.pdb

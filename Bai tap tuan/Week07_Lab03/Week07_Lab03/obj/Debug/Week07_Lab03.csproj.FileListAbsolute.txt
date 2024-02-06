@@ -1,0 +1,7 @@
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week07_Lab03\Week07_Lab03\obj\Debug\Week07_Lab03.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week07_Lab03\Week07_Lab03\obj\Debug\Week07_Lab03.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week07_Lab03\Week07_Lab03\bin\Debug\Week07_Lab03.exe.config
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week07_Lab03\Week07_Lab03\bin\Debug\Week07_Lab03.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week07_Lab03\Week07_Lab03\bin\Debug\Week07_Lab03.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week07_Lab03\Week07_Lab03\obj\Debug\Week07_Lab03.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Week07_Lab03\Week07_Lab03\obj\Debug\Week07_Lab03.pdb
