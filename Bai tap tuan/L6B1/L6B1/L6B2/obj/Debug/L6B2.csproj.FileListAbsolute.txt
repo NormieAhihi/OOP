@@ -1,0 +1,21 @@
+C:\Users\TranThang\Documents\Visual Studio 2008\Projects\L6B1\L6B2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TranThang\Documents\Visual Studio 2008\Projects\L6B1\L6B2\bin\Debug\L6B2.exe
+C:\Users\TranThang\Documents\Visual Studio 2008\Projects\L6B1\L6B2\bin\Debug\L6B2.pdb
+C:\Users\TranThang\Documents\Visual Studio 2008\Projects\L6B1\L6B2\obj\Debug\L6B2.exe
+C:\Users\TranThang\Documents\Visual Studio 2008\Projects\L6B1\L6B2\obj\Debug\L6B2.pdb
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan06\L6B1\L6B2\bin\Debug\L6B2.exe
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan06\L6B1\L6B2\bin\Debug\L6B2.pdb
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan06\L6B1\L6B2\obj\Debug\L6B2.csprojAssemblyReference.cache
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan06\L6B1\L6B2\obj\Debug\L6B2.exe
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan06\L6B1\L6B2\obj\Debug\L6B2.pdb
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K64_KSTN\1_Tài liệu hàng tuần\TL_Tuan07\L6B1\L6B2\bin\Debug\L6B2.exe
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K64_KSTN\1_Tài liệu hàng tuần\TL_Tuan07\L6B1\L6B2\bin\Debug\L6B2.pdb
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K64_KSTN\1_Tài liệu hàng tuần\TL_Tuan07\L6B1\L6B2\obj\Debug\L6B2.csprojAssemblyReference.cache
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K64_KSTN\1_Tài liệu hàng tuần\TL_Tuan07\L6B1\L6B2\obj\Debug\L6B2.exe
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K64_KSTN\1_Tài liệu hàng tuần\TL_Tuan07\L6B1\L6B2\obj\Debug\L6B2.pdb
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K66S\TL_Tuan12\L6B1\L6B2\bin\Debug\L6B2.exe
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K66S\TL_Tuan12\L6B1\L6B2\bin\Debug\L6B2.pdb
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K66S\TL_Tuan12\L6B1\L6B2\obj\Debug\L6B2.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K66S\TL_Tuan12\L6B1\L6B2\obj\Debug\L6B2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K66S\TL_Tuan12\L6B1\L6B2\obj\Debug\L6B2.exe
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K66S\TL_Tuan12\L6B1\L6B2\obj\Debug\L6B2.pdb
