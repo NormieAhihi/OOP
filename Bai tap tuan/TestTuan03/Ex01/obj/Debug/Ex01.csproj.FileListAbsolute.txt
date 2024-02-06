@@ -1,0 +1,7 @@
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\Ex01\bin\Debug\Ex01.exe.config
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\Ex01\bin\Debug\Ex01.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\Ex01\bin\Debug\Ex01.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\Ex01\obj\Debug\Ex01.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\Ex01\obj\Debug\Ex01.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\Ex01\obj\Debug\Ex01.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\Ex01\obj\Debug\Ex01.pdb

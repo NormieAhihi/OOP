@@ -1,0 +1,6 @@
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\TestTuan03\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
