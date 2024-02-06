@@ -1,0 +1,20 @@
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\obj\Debug\QLBH.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\QLBH\QLBH\obj\Debug\QLBH.Form2.resources
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\bin\Debug\QLBH.exe
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\bin\Debug\QLBH.pdb
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\obj\Debug\QLBH.exe
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Admin\Downloads\OOP\QLBHv2\QLBHv2\QLBH\obj\Debug\QLBH.FormQL.resources
